@@ -46,7 +46,7 @@
   max-width: 388px;
   left: 64px;
   bottom: 30px;
-  font-size: 17px;
+  font-size: 18px;
   font-weight: normal;
   z-index: 2;
   line-height: 25px;
@@ -109,7 +109,6 @@
   font-size: 24px;
   max-width: 80%;
   font-weight: normal;
-  text-align: justify;
   line-height: 34px;
 }
 
@@ -357,6 +356,7 @@
 .footer__social-icon {
   list-style: none;
   text-decoration: none;
+  padding-right: 10px;
 }
 
 .footer__column-link {
@@ -366,5 +366,4 @@
   font-size: 18px;
   font-weight: normal;
   padding-bottom: 18px;
-  padding-left: 10px;
 }
