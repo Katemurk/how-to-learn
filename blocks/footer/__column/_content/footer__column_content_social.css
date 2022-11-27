@@ -1,0 +1,10 @@
+
+/* Блок с иконками*/
+
+.footer__column_content_social {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin: 0;
+  text-decoration: none;
+}
