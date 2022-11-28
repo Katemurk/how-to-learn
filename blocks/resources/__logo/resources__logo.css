@@ -3,8 +3,4 @@
   height: 38px;
 }
 
-.resources__logo:hover {
-  /* background-color: #f2f2f2; */
-  transform: scale(1.3);
-  transition: transform 1s ease-in-out;
-}
+

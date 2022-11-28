@@ -1,0 +1,10 @@
+.link {
+  opacity: 1;
+  transition: transform 2s linear;
+
+}
+
+.link:hover {
+  opacity: 0.5;
+  transform: scale(1.3);
+}
